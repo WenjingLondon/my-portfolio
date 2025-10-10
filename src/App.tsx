@@ -84,7 +84,7 @@ const App = () => {
         </div>
       
       <p className="text-base italic font-light font-serif text-white whitespace-nowrap">
-  📧 <a href="mailto:wenjingshi2000@hotmail.com" className="underline hover:text-white">wenjingshi2000@gmail.com</a> | 
+  📧 <a href="mailto:wenjingshi2000@hotmail.com" className="underline hover:text-white">wenjingshi2000@hotmail.com</a> | 
   💼 <a href="https://linkedin.com/in/wenjing-shi-133269123" className="underline hover:text-white">linkedin.com/in/wenjing-shi-133269123/</a> | 
   🐙 <a href="https://github.com/WenjingLondon" className="underline hover:text-white">github.com/WenjingLondon</a>
 </p>
